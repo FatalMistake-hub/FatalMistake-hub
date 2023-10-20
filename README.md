@@ -41,7 +41,6 @@
     bg_color=#808080/></p>
 
 <br>
-<a href="https://app.daily.dev/nhat1711"><img src="https://api.daily.dev/devcards/9a0ee9d7ddba41a09af6fc800b2cca7a.png?r=ov3" width="400" alt="MinhNhat's Dev Card"/></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatalmistake-hub&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="fatalmistake-hub" /></p>
@@ -50,3 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatalmistake-hub&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="fatalmistake-hub" /></p>
    <br>   
+<a href="https://app.daily.dev/nhat1711"><img src="https://api.daily.dev/devcards/9a0ee9d7ddba41a09af6fc800b2cca7a.png?r=ov3" width="400" alt="MinhNhat's Dev Card"/></a>
